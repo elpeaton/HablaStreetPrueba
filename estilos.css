@@ -1,6 +1,7 @@
 ﻿body
 {
-	background: #B7573C;
+	background: url("hablastreet-escuela-de-español.jpg") no-repeat center;
+	background-size: 1900px;
 	color: #EEE;
 	font-family: Arial;
 	font-size: 16px;
@@ -8,9 +9,9 @@
 }
 header
 {
-	background: url("hablastreet-escuela-de-español.jpg") no-repeat center;
+	background: url("hablastreet.png") no-repeat center;
 	background-size: 200px 200px;
-	height: 200px;
+	height: 150px;
 	width: 100%;
 	margin: 10% 0 0 0;
 }
